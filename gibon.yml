@@ -1,0 +1,6 @@
+# This is a binary distribution repository for Odroid-XU4
+# No build system, dependencies, or tests are present
+# Commands are not applicable as this contains precompiled binaries
+
+dependencies: echo "No dependencies - this is a binary distribution"
+build: echo "No build step - binaries are precompiled"
